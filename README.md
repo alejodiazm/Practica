@@ -1,2 +1,2 @@
-# Practica
-Segunda prctica Clone-Twitter
+# Práctica
+Segunda práctica Clone-Twitter
